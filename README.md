@@ -1,7 +1,7 @@
 # HJS License
 - HyeonJS's Custom License
 
-## Type A
+## Type 1
 ```
 Copyright <YEAR> <COPYRIGHT HOLDER>, All rights reserved.
 
